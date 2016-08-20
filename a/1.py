@@ -1,1 +1,2 @@
-#!/bin/python
+#!/bin/python3
+print("hello world")
